@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LUCAS_RODRIGUES_RM88776</string>
+    <string name="botao_android">Android</string>
+    <string name="botao_ios">IOS</string>
+    <string name="app_title">Qual sistema operacional você prefere?</string>
+    <string name="app_resposta">Prefiro:</string>
+</resources>
